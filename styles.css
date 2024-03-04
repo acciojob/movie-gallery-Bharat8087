@@ -1,2 +1,21 @@
-
-/* Your CSS Code here. */
+.container-fluid{
+	margin:0px;
+	padding:0px;
+	display:column;;
+}
+.col-sm-1{
+	height:100px;
+	width:100px;
+}
+.col-sm-2{
+	height:100px;
+	width:100px;
+}
+.col-sm-4{
+	height:100px;
+	width:100px;
+}
+.col-sm-12{
+	height:100px;
+	width:100px;
+}

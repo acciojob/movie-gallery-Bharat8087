@@ -24,7 +24,7 @@ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
 }
 .img-fluid{
-	background-color:none;
+	background-color:lightblue;
 }
 
 

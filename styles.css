@@ -1,6 +1,12 @@
 .container-fluid {
     padding: 20px; 
 }
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
+
 
 h2 {
     text-align: center; 
